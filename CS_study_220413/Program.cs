@@ -39,7 +39,7 @@ public class DeviceManager
 {
     public void TurnOff(Computer device)
     {
-        device.Shutdown();  // childclass instance -> superclass
+        device.Shutdown();
     }
 }
 
@@ -57,6 +57,15 @@ namespace ConsoleApp1
             manager.TurnOff(notebook);  //typecasting implicit
             manager.TurnOff(desktop);
             manager.TurnOff(netbook);
+
+
+            Computer[] machines = new Computer[] { new Notebook(), new DeskTop(), new Netbook() };
+            // <-  implicit type casting / child class instance -> super class array;
+
+            foreach(Computer device in machines)
+            {
+                manager.TurnOff(device);
+            }
         }
     }
 }
