@@ -1,0 +1,15 @@
+C:\_codes\CS_study\CS_Study_220413_ObjectClass\bin\Debug\net6.0\CS_Study_220413_ObjectClass.exe
+C:\_codes\CS_study\CS_Study_220413_ObjectClass\bin\Debug\net6.0\CS_Study_220413_ObjectClass.deps.json
+C:\_codes\CS_study\CS_Study_220413_ObjectClass\bin\Debug\net6.0\CS_Study_220413_ObjectClass.runtimeconfig.json
+C:\_codes\CS_study\CS_Study_220413_ObjectClass\bin\Debug\net6.0\CS_Study_220413_ObjectClass.dll
+C:\_codes\CS_study\CS_Study_220413_ObjectClass\bin\Debug\net6.0\CS_Study_220413_ObjectClass.pdb
+C:\_codes\CS_study\CS_Study_220413_ObjectClass\obj\Debug\net6.0\CS_Study_220413_ObjectClass.csproj.AssemblyReference.cache
+C:\_codes\CS_study\CS_Study_220413_ObjectClass\obj\Debug\net6.0\CS_Study_220413_ObjectClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\_codes\CS_study\CS_Study_220413_ObjectClass\obj\Debug\net6.0\CS_Study_220413_ObjectClass.AssemblyInfoInputs.cache
+C:\_codes\CS_study\CS_Study_220413_ObjectClass\obj\Debug\net6.0\CS_Study_220413_ObjectClass.AssemblyInfo.cs
+C:\_codes\CS_study\CS_Study_220413_ObjectClass\obj\Debug\net6.0\CS_Study_220413_ObjectClass.csproj.CoreCompileInputs.cache
+C:\_codes\CS_study\CS_Study_220413_ObjectClass\obj\Debug\net6.0\CS_Study_220413_ObjectClass.dll
+C:\_codes\CS_study\CS_Study_220413_ObjectClass\obj\Debug\net6.0\refint\CS_Study_220413_ObjectClass.dll
+C:\_codes\CS_study\CS_Study_220413_ObjectClass\obj\Debug\net6.0\CS_Study_220413_ObjectClass.pdb
+C:\_codes\CS_study\CS_Study_220413_ObjectClass\obj\Debug\net6.0\CS_Study_220413_ObjectClass.genruntimeconfig.cache
+C:\_codes\CS_study\CS_Study_220413_ObjectClass\obj\Debug\net6.0\ref\CS_Study_220413_ObjectClass.dll
